@@ -1,29 +1,59 @@
+<!-- PT -->
+<details open>
+<summary><strong>🇧🇷 Português</strong></summary>
+
 # Portfolio
 
-Meu portfolio pessoal — um espaço para testar e experimentar projetos gráficos na web.
+Meu espaço pessoal para explorar e experimentar projetos gráficos na web.
 
-## 🎯 Objetivo
-
-Este repositório contém meu portfolio interativo construído com **Vite + TypeScript**, usado para explorar tecnologias web modernas e demonstrar projetos técnicos.
+---
 
 ## 📦 Projetos
 
 ### 🟩 Cub3D_Web — em progresso
 
-Recriando o **Cub3D** (raycasting engine estilo Wolfenstein 3D) na web usando **WebGPU Compute Shader** (WGSL). Explorando computação gráfica — raycasting, DDA, shaders — e como um clássico engine dos anos 90 roda no browser.
+Recriação do **Cub3D** — um raycasting engine estilo Wolfenstein 3D — rodando no browser. O objetivo é entender computação gráfica de baixo para cima: raycasting, algoritmo DDA e como um engine clássico dos anos 90 funciona na prática.
+
+`WebGPU` • `WGSL` • `Raycasting`
 
 ### 🔜 Cub3D_Redux — em breve
+
+Reimaginação do Cub3D usando **raymarching** em vez de raycasting — a mesma inspiração com uma abordagem diferente para renderizar geometria implícita e formas curvas.
+
+`WebGPU` • `WGSL` • `Raymarching`
+
+---
+
+*Constantemente em desenvolvimento.*
+
+</details>
+
+<!-- EN -->
+<details>
+<summary><strong>🇺🇸 English</strong></summary>
+
+# Portfolio
+
+Personal space to explore and experiment with graphics projects on the web.
 
 ---
 
 ## 📦 Projects
 
-### 🟩 Cub3D_Web — In Progress
+### 🟩 Cub3D_Web — in progress
 
-Recreating **Cub3D** (Wolfenstein 3D-style raycasting engine) on the web using **WebGPU Compute Shader** (WGSL). Exploring computer graphics — raycasting, DDA, shaders — and how a classic 90s game engine runs in the browser.
+A recreation of **Cub3D** — a Wolfenstein 3D-style raycasting engine — running in the browser. The goal is to understand computer graphics from the ground up: raycasting, the DDA algorithm, and how a classic 90s engine actually works.
 
-### 🔜 Cub3D_Redux — Coming Soon
+`WebGPU` • `WGSL` • `Raycasting`
+
+### 🔜 Cub3D_Redux — coming soon
+
+A reimagination of Cub3D using **raymarching** instead of raycasting — same inspiration, different approach to rendering implicit geometry and curved surfaces.
+
+`WebGPU` • `WGSL` • `Raymarching`
 
 ---
 
 *Constantly under development.*
+
+</details>
